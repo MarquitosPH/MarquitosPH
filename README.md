@@ -12,7 +12,7 @@ Soy estudiante de **Ingeniería en Software y Tecnologías Emergentes** en la UA
 
 <img align="right" src="./assets/personaje.png" alt="Ilustración de Marco trabajando en su laptop" width="200">
 
-### 🌱 Actualmente estoy aprendiendo
+### Actualmente estoy aprendiendo
 - Kotlin y desarrollo de apps Android
 - React y Angular
 
@@ -21,7 +21,7 @@ Soy estudiante de **Ingeniería en Software y Tecnologías Emergentes** en la UA
 
 <br clear="right">
 
-## 🧰 Con qué trabajo
+## Con qué trabajo
 
 **Código**
 
@@ -41,7 +41,7 @@ Soy estudiante de **Ingeniería en Software y Tecnologías Emergentes** en la UA
 ![Wireframes](https://img.shields.io/badge/Wireframes-E6DE8E?style=for-the-badge)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-E6DE8E?style=for-the-badge)
 
-## 🚀 Proyectos
+## Proyectos
 
 <table>
   <tr>
