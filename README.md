@@ -16,7 +16,7 @@ Soy estudiante de **Ingeniería en Software y Tecnologías Emergentes** en la UA
 - Kotlin y desarrollo de apps Android
 - React y Angular
 
-### 💻 Estoy trabajando en
+### Estoy trabajando en
 - [Rediseño del sistema de préstamos del Almacén Químico](https://marquitosph.github.io/portafolio/proyectos/almacen-quimico.html) de la FCQI, UABC
 
 <br clear="right">
@@ -64,7 +64,7 @@ Soy estudiante de **Ingeniería en Software y Tecnologías Emergentes** en la UA
 
 También: [PlaylistScript](https://github.com/MarquitosPH/PlaylistScript), un lenguaje de scripting en Java para generar playlists de Spotify.
 
-## 📜 Certificaciones
+## Certificaciones
 
 - **Google UX Design** · Coursera
 - **Web Design for Everybody** (especialización) · University of Michigan · [verificar](https://coursera.org/verify/specialization/621QODHDD6CH)
